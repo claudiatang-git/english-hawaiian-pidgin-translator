@@ -84,4 +84,6 @@ The following hyperparameters were used during training:
 
  - _King James Bible_. (2017). BibleGateway.com. https://www.biblegateway.com/versions/king-james-version-kjv-bible/ (Original work published 1769)
 
+ - T5. (n.d.). Huggingface.co. https://huggingface.co/docs/transformers/model_doc/t5
+
  - Translation. (n.d.). Huggingface.co. Retrieved October 18, 2023, from https://huggingface.co/docs/transformers/tasks/translation
