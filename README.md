@@ -27,13 +27,15 @@ If you are trying the [English-Hawaiian Pidgin Translator](https://huggingface.c
 
 ## Training and evaluation data
 
-There are not many English-Hawaiian Pidgin parallel corpora that are easily accessible. A parallel dataset, similar to [bible_para](https://huggingface.co/datasets/bible_para), was compiled by scraping the Hawaiʻi Pidgin Version (HWP) and the King James Version (KJV) from [biblegateway.com](https://www.biblegateway.com/). <!--- For more information, please refer to [this notebook](). -->
+There are not many English-Hawaiian Pidgin parallel corpora that are easily accessible. A parallel dataset, similar to [bible_para](https://huggingface.co/datasets/bible_para), was compiled by scraping the Hawaiʻi Pidgin Version (HWP) and the King James Version (KJV) from [biblegateway.com](https://www.biblegateway.com/). For more information, refer to [`get_data.ipynb`](https://github.com/claudiatang-git/english-hawaiian-pidgin-translator/blob/main/get_data.ipynb).
 
 ## Intended uses & limitations
 
 Due to a limited set of training and evaluation data, this model has many limitations, such as not knowing certain Hawaiian Pidgin phrases or having trouble with longer sentences.
 
 ## Training procedure
+
+For more information regarding training, refer to the [`finetune_FLAN_T5.ipynb`](https://github.com/claudiatang-git/english-hawaiian-pidgin-translator/blob/main/finetune_FLAN_T5.ipynb).
 
 ### Training hyperparameters
 
