@@ -35,7 +35,7 @@ Due to a limited set of training and evaluation data, this model has many limita
 
 ## Training procedure
 
-For more information regarding training, refer to the [`finetune_FLAN_T5.ipynb`](https://github.com/claudiatang-git/english-hawaiian-pidgin-translator/blob/main/finetune_FLAN_T5.ipynb).
+For more information regarding training, refer to [`finetune_FLAN_T5.ipynb`](https://github.com/claudiatang-git/english-hawaiian-pidgin-translator/blob/main/finetune_FLAN_T5.ipynb).
 
 ### Training hyperparameters
 
